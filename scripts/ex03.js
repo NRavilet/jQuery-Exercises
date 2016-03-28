@@ -1,0 +1,17 @@
+$(document).ready(function(){ 
+	$('#rama').click(function(){
+		$(this).toggle('slow');	
+	});
+	$('#sita').click(function(){
+		$(this).toggle('slow');	
+	});
+	$('#hanuman').click(function(){
+		$(this).toggle('slow');	
+	});
+	$('#lakshmana').click(function(){
+		$(this).toggle('slow');	
+	});
+	$('#ravana').click(function(){
+		$(this).toggle('slow');	
+	});
+}); 

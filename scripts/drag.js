@@ -1,0 +1,6 @@
+$(document).on(){
+    $('#box').draggable({ 
+
+}); 
+
+
